@@ -2,3 +2,18 @@
     width: 1165px;
     margin: 0 auto;
 }
+
+.fa-paper-plane {
+    font-size: 76px;
+    margin-top: 50px;
+    color: green;
+}
+.fa-facebook {
+    font-size: 80px;
+    color: #005eff;
+}
+
+.fa-facebook:hover {
+    color: #5187e3;
+    cursor: pointer;
+}
