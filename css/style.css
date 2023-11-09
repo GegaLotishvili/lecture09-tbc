@@ -17,3 +17,33 @@
     color: #5187e3;
     cursor: pointer;
 }
+
+.s-2 {
+    margin: 100px 0;
+}
+.bigbox {
+    height: 700px;
+    background-color: cyan;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    flex-wrap: nowrap;
+}
+
+.smallbox {
+    width: 100px;
+    height: 100px;
+}
+.red {
+    background-color: red;
+}
+.yellow {
+    background-color: yellow;
+}
+.green {
+    background-color: green;
+}
+.blue {
+    background-color: blue;
+}
